@@ -17,4 +17,27 @@ function deviceInfo() {
 			'Device Version : '  + device.version + '<br>';
 
 	document.getElementById("deviceDetails").innerHTML = info;	
+
+	
+}
+function deviceInfo1() {
+
+	info =  'MONIKA TU NIE CHCE';
+
+	document.getElementById("deviceDetails").innerHTML = info;	
+
+}
+function deviceInfo2() {
+
+	info =  'TUTAJ TEŻ NIE';
+
+	document.getElementById("deviceDetails").innerHTML = info;	
+
+}
+function deviceInfo3() {
+
+	info =  'MONIKA CHCE W TATRY!!!!!';
+
+	document.getElementById("deviceDetails").innerHTML = info;	
+
 }
